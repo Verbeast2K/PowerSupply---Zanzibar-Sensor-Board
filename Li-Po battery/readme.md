@@ -9,3 +9,4 @@ Een gewoonlijke laadcyclus van een LiPo batterij is onderverdeeld in 3 laadfasen
 2. Constant Current
 3. Constant Voltage
 
+![PowerSupply---Zanzibar-Sensor-Board](Li-Po_battery/optimalLiPoCharging.avif 'Figuur 1: Realistisch laadverloop 3.7V Li-Po batterij')
